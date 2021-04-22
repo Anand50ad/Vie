@@ -1,0 +1,156 @@
+html {
+  max-width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+
+/* Navbar */
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-left: 2%;
+}
+
+.navbar-nav {
+  font-size: 1.2rem;
+}
+
+.nav-item1 {
+  margin-right: 60px;
+}
+
+.nav-item2 {
+  margin-right: 60px;
+}
+
+.nav-item3 {
+  margin-right: 60px;
+}
+
+.nav-item4 {
+  margin-right: 60px;
+}
+
+.nav-item5 {
+  margin-right: 40px;
+}
+
+/* Banner Section */
+.banner {
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+.banner-heading {
+  font-family: 'Lilita One', cursive;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #fff;
+  padding-top: 3%;
+}
+
+.banner-txt {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-decoration: underline;
+  padding-top: 2%;
+  padding-bottom: 5%;
+  color: #fff;
+}
+
+/* Notes Section */
+.notes-heading {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 3rem;
+  margin: 7% auto 3% auto;
+}
+
+h1.notes-heading {
+  text-align: center;
+}
+
+.class-name {
+  font-size: 2rem;
+  text-align: center;
+  font-family: 'Montserrat-Bold', sans-serif;
+  margin-bottom: 7%;
+}
+
+.class-9, .class-11 {
+  margin-left: 5%;
+}
+
+.class-10, .class-12 {
+  margin-left: 6.83%;
+}
+
+.subject {
+  text-decoration: none;
+  color: #696969;
+  font-size: 1.2rem;
+}
+
+.subject:hover {
+  color: #000000;
+  text-decoration: underline;
+}
+
+ul {
+  margin-left: 10%;
+}
+
+/* Online Classes */
+.online-class {
+  margin-bottom: 4%;
+}
+
+.online-heading {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 3rem;
+  margin: 2% auto 1% auto;
+  text-align: center;
+}
+
+.btn-1 {
+  margin: 2% 11% 2% 0;
+}
+
+.btn-col {
+  text-align: center;
+  margin-bottom: 4%;
+}
+
+/* Footer */
+#footer {
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+.fa-facebook-f {
+  margin-left: 6%;
+  margin-right: 3%;
+}
+
+.fa-instagram {
+  margin-left: 3%;
+  margin-right: 6%;
+}
+
+.footer-icon {
+  padding-top: 40px;
+}
+
+.footer-txt {
+  padding-top: 5%;
+  padding-bottom: 1%;
+  margin-bottom: 0;
+  font-weight: 100;
+  color: #fff;
+}
