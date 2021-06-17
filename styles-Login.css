@@ -1,0 +1,108 @@
+html {
+  max-width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  background-color: #ff4c68;
+}
+
+/* Navbar */
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-left: 2%;
+}
+
+.navbar-nav {
+  font-size: 1.2rem;
+}
+
+.nav-item1 {
+  margin-right: 60px;
+}
+
+.nav-item2 {
+  margin-right: 60px;
+}
+
+.nav-item3 {
+  margin-right: 60px;
+}
+
+.nav-item4 {
+  margin-right: 60px;
+}
+
+.nav-item5 {
+  margin-right: 60px;
+}
+
+.nav-item6 {
+  margin-right: 40px;
+}
+
+/* Login Area */
+#login-form {
+  font-family: 'Montserrat-Bold', sans-serif;
+}
+
+.form {
+  background-color: #f6f6f6;
+  width: 350px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 2.5%;
+  border-radius: 10%;
+}
+
+.user-icon {
+  margin: 4% auto 8% auto;
+}
+
+.email {
+  margin-bottom: 10%;
+}
+
+.password {
+  margin-bottom: 10%;
+}
+
+input {
+  background-color: #f6f6f6;
+  border: none;
+  border-bottom: solid;
+  outline: none;
+}
+
+.btn-1 {
+  font-weight: bold;
+  width: 75%;
+  margin: auto;
+  margin-bottom: 3%;
+}
+
+.btn-2 {
+  font-weight: bold;
+  width: 75%;
+  margin: auto;
+  margin-bottom: 3%;
+}
+
+p {
+  padding: 0 3%;
+}
+
+.title-txt {
+  font-family: 'Lilita One', cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 2%;
+}
